@@ -76,7 +76,9 @@ int yywrap() {
 ```
 
 # Output
-![Uploading image.png…]()
+
+<img width="693" height="964" alt="image" src="https://github.com/user-attachments/assets/4d96cbad-034c-47e6-8832-e9b1ab846470" />
+
 
 # Result
 
